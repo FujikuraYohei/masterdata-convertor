@@ -1,7 +1,5 @@
-## masterdata convertor
-
 ### Motivation
-- 
+- スプレッドシートに入力されたマスタデータをDBに投入できる形に変換したい
 
 ### Usage
 - 
